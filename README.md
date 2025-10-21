@@ -56,3 +56,14 @@ Once the model file exists, launch the Streamlit app:
 
 
 The application will open in your web browser, allowing you to interact with the Risk Simulator and view the forecast.
+
+
+## Project Files
+
+- src.ipynb - Handles data loading, feature engineering, model training, and model saving. (Run this first!)
+
+- app.py - The main Streamlit dashboard script. Handles model loading, prediction, risk simulation, and visualization.
+
+- requirements.txt - List of all required Python libraries.
+
+- README.md - This documentation file.
