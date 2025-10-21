@@ -1,8 +1,8 @@
-ATM Cash Demand Forecasting & Operational Simulator
+# ATM Cash Demand Forecasting & Operational Simulator
 
 This project uses the Prophet time series library to forecast cash withdrawal demand for a specific ATM (ATM_0044) and provides an interactive Streamlit dashboard that allows bank operations managers to simulate stocking strategies based on their chosen risk tolerance.
 
-🌟 Key Features
+## Key Features
 
 Prophet Forecasting: Models daily cash demand using historical data, holidays, and engineered features (Payday indicators, Location Type).
 
