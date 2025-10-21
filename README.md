@@ -43,7 +43,7 @@ Step 1: Train and Save the Model
 
 Run the training script to prepare the data, apply feature engineering (One-Hot Encoding, Payday features), and save the Prophet model as a JSON file.
 
-`python train_model_enhanced.py`
+`src.ipynb`
 
 
 Result: A file named prophet_model_atm_0044.json will be created.
